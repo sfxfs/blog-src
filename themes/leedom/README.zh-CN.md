@@ -13,16 +13,16 @@
 ## 安装
 `hexo-site` 是你的 hexo 项目的根目录
 
-通过npm安装：
-```sh
-cd hexo-site
-npm i hexo-theme-leedom
-```
-
-或者克隆整个存储库：
+克隆整个存储库：
 ```sh
 cd hexo-site
 git clone https://github.com/leedom92/hexo-theme-leedom.git themes/leedom
+```
+
+或者通过npm安装：
+```sh
+cd hexo-site
+npm i hexo-theme-leedom
 ```
 
 ## 用法
@@ -34,16 +34,7 @@ theme: leedom
 ```
 
 ## 配置
-如果您在搜索时出现以下错误:
-```html
-The search.xml file was not found, please refer to：configuration
-```
 
->请安装 [hexo-generator-search](https://github.com/wzpan/hexo-generator-search) 插件
-
-```sh
-npm install hexo-generator-search -S
-```
 在根目录下的 `_config.yml` 添加或编辑以下配置:
 ```yml
 search:

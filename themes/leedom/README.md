@@ -13,16 +13,16 @@ A pure theme of Hexo like Evan You's blog. The theme is derived from [Hexo-Theme
 ## Installation
 `hexo-site` is the root directory of your hexo project
 
-Install through npm:
-```sh
-cd hexo-site
-npm i hexo-theme-leedom
-```
-
-Or you can clone the entire repository:
+clone the entire repository:
 ```sh
 cd hexo-site
 git clone https://github.com/leedom92/hexo-theme-leedom.git themes/leedom
+```
+
+Or you can Install through npm:
+```sh
+cd hexo-site
+npm i hexo-theme-leedom
 ```
 
 ## Usage
@@ -34,16 +34,6 @@ theme: leedom
 ```
 
 ## Configuration
-if there's an error when you are searching:
-```html
-The search.xml file was not found, please refer to：configuration
-```
-
->please install [hexo-generator-search](https://github.com/wzpan/hexo-generator-search) plugin
-
-```sh
-npm install hexo-generator-search -S
-```
 
 add or edit configuration in your root `_config.yml`:
 ```yml
