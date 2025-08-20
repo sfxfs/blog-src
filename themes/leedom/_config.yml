@@ -17,8 +17,8 @@ favicon:
 # 用户头像与昵称
 avatar:
   author_photo: /images/avatar.png
-  author_nickname: SsfxfsS
-  path: /images/avatar.png
+  author_nickname: Xiao's Blog
+  path: /
 
 # 文章末尾的上一页与下一页
 prevnext:
@@ -40,40 +40,12 @@ link:
     icon: github
     path: https://github.com/sfxfs
     target: _blank
-  -
-    name: email
-    icon: envelope
-    path: ssfxfss@qq.com
-  -
-    name: facebook
-    icon: facebooksquare
-    path:
-  -
-    name: twitter
-    icon: twitter
-    path:
-  -
-    name: wechat
-    icon: wechat
-    path:
-  -
-    name: weibo
-    icon: weibo
-    path:
-  -
-    # rss需安装 hexo-generator-feed 插件
-    # 具体参照https://github.com/hexojs/hexo-generator-feed
-    name: rss
-    icon: rss
-    path: /atom.xml
-    target: _blank
-
 
 # 页脚信息
 footer:
   -
-    name: Copyright © ssfxfss 2022
-    path: https://github.com/leedom92/hexo-theme-leedom
+    name: Copyright © Xiao 2025
+    path: https://github.com/sfxfs
   -
     name: Theme by Leedom | Powered by Hexo
     path: https://github.com/leedom92/hexo-theme-leedom
