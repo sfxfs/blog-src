@@ -1,7 +1,7 @@
 ---
 title: ESP32-IDF 自定义分区表的编写
 date: 2023-01-02 20:31:05
-tags: ESP32 IDF
+tags: [ESP32, IDF]
 ---
 
 # 内容

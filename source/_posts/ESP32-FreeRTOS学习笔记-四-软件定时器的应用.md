@@ -1,7 +1,7 @@
 ---
 title: ESP32-FreeRTOS学习笔记(四)--软件定时器的应用
 date: 2022-10-21 19:36:53
-tags: FreeRTOS
+tags: [ESP32, FreeRTOS]
 ---
 
 先介绍创建软件定时器的API函数

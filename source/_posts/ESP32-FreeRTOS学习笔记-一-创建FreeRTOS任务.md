@@ -1,7 +1,7 @@
 ---
 title: ESP32-FreeRTOS学习笔记(一)--创建FreeRTOS任务
 date: 2022-10-21 19:35:49
-tags: FreeRTOS
+tags: [ESP32, FreeRTOS]
 ---
 
 包括任务的创建和向任务传参

@@ -1,7 +1,7 @@
 ---
 title: ESP32-FreeRTOS学习笔记(六)--任务的状态和管理
 date: 2022-10-21 20:40:36
-tags: FreeRTOS
+tags: [ESP32, FreeRTOS]
 ---
 
  介绍了任务的全部状态和对相关任务进行管理。

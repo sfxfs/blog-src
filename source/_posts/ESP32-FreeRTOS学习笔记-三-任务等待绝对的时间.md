@@ -1,7 +1,7 @@
 ---
 title: ESP32-FreeRTOS学习笔记(三)--任务等待绝对的时间
 date: 2022-10-21 19:37:49
-tags: FreeRTOS
+tags: [ESP32, FreeRTOS]
 ---
 
 在任务中我们可以使用 vTaskDelay(pdTICKS_TO_MS(delayTimeMS)) 来延时对应时间，但是实际上这个延迟将会有误差，如果我们的任务对频率要求更高的话就可以使用如下函数：

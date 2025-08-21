@@ -1,7 +1,7 @@
 ---
 title: ESP32-IDF 自定义菜单 Menuconfig 入门
 date: 2022-12-17 09:38:09
-tags: ESP32 IDF
+tags: [ESP32, IDF]
 ---
 
 # 介绍

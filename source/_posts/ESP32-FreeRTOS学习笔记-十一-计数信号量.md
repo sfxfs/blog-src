@@ -1,7 +1,7 @@
 ---
 title: ESP32-FreeRTOS学习笔记(十一)--计数信号量
 date: 2022-10-29 09:01:12
-tags: FreeRTOS
+tags: [ESP32, FreeRTOS]
 ---
 
 ## 1.使用到的API

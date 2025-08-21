@@ -1,7 +1,7 @@
 ---
 title: ESP32-FreeRTOS学习笔记(十四)--信息缓存
 date: 2022-11-02 20:29:26
-tags: FreeRTOS
+tags: [ESP32, FreeRTOS]
 ---
 
 Message Buffer是基于Stream Buffer的。只是在每一次发送数据的时候多了四个字节的空间用于存放消息的大小。更具这个消息大小，读取放就可以一次读取出全部消息的内容。在视频中，也会对全部三个FreeRTOS的数据类型进行对比，分别是Queue，Stream Buffer 和 Message Buffer。

@@ -1,7 +1,7 @@
 ---
 title: ESP32-FreeRTOS学习笔记(十二)--事件标志组
 date: 2022-10-29 19:47:23
-tags: FreeRTOS
+tags: [ESP32, FreeRTOS]
 ---
 
 ## 1.概念

@@ -1,7 +1,7 @@
 ---
 title: ESP32-IDF Cmake编写要点
 date: 2022-11-08 19:58:47
-tags: ESP32 IDF
+tags: [ESP32, IDF]
 ---
 
 ## 1.文件通配 & 增量构建

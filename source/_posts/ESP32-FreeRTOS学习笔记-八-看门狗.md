@@ -1,7 +1,7 @@
 ---
 title: ESP32-FreeRTOS学习笔记(八)--看门狗
 date: 2022-10-25 21:44:12
-tags: FreeRTOS
+tags: [ESP32, FreeRTOS]
 ---
 
  需要知道的是：

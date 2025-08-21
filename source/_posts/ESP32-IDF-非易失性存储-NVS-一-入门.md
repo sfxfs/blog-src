@@ -1,7 +1,7 @@
 ---
 title: ESP32-IDF 非易失性存储 NVS (一) 入门
 date: 2022-12-19 13:02:40
-tags: ESP32 IDF
+tags: [ESP32, IDF]
 ---
 
 # 介绍

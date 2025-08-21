@@ -1,7 +1,7 @@
 ---
 title: ESP32-FreeRTOS学习笔记(十三)--流媒体缓存
 date: 2022-11-02 19:42:10
-tags: FreeRTOS
+tags: [ESP32, FreeRTOS]
 ---
 
 FreeRTOS 10以后引入了一个新的数据类型就是 Stream Buffer。它和Queue最大的不同就是，Stream Buffer读写的大小没有限制，而Queue是预设值好固定的值。Stream Buffer 流媒体缓存顾名思义它的受众对象就是 流媒体 比如MP3，视频，在线电台等。

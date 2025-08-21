@@ -1,7 +1,7 @@
 ---
 title: ESP32-FreeRTOS学习笔记(五)--任务内存优化
 date: 2022-10-21 20:24:02
-tags: FreeRTOS
+tags: [ESP32, FreeRTOS]
 ---
 
  介绍了如何获取剩余内存堆空间，如何准确分配内存。

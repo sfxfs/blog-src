@@ -1,7 +1,7 @@
 ---
 title: SPI理论基础
 date: 2025-08-20 22:22:12
-tags: spi theory
+tags: [spi, theory]
 ---
 
 ## SPI 协议简介

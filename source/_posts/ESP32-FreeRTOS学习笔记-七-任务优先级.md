@@ -1,7 +1,7 @@
 ---
 title: ESP32-FreeRTOS学习笔记(七)--任务优先级
 date: 2022-10-21 21:01:13
-tags: FreeRTOS
+tags: [ESP32, FreeRTOS]
 ---
 
  在ESP32上的FreeRTOS上优先级越高其值越大

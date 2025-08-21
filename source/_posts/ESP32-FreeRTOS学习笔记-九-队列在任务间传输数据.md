@@ -1,7 +1,7 @@
 ---
 title: ESP32-FreeRTOS学习笔记(九)--队列在任务间传输数据
 date: 2022-10-26 21:30:45
-tags: FreeRTOS
+tags: [ESP32, FreeRTOS]
 ---
 
  ## 1.队列相关的API

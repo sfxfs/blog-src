@@ -1,7 +1,7 @@
 ---
 title: ESP32-IDF WIFI的使用(1) 初步入门
 date: 2023-01-03 13:41:36
-tags: ESP32 IDF
+tags: [ESP32, IDF]
 ---
 
 WiFi相关文档参阅 [乐鑫IDF编程文档](https://docs.espressif.com/projects/esp-idf/zh_CN/release-v5.0/esp32/api-guides/wifi.html)

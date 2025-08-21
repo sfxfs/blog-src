@@ -1,7 +1,7 @@
 ---
 title: ESP32-FreeRTOS学习笔记(二)--MUTEX互斥量的应用
 date: 2022-10-21 19:38:07
-tags: FreeRTOS
+tags: [ESP32, FreeRTOS]
 ---
 
 包括任务函数使用全局变量和添加互斥量避免“冒险与竞争”

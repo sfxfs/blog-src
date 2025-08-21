@@ -1,7 +1,7 @@
 ---
 title: ESP32-IDF 非易失性存储 NVS (二) 相关工具
 date: 2023-01-02 20:11:16
-tags: ESP32 IDF
+tags: [ESP32, IDF]
 ---
 
 # NVS迭代器

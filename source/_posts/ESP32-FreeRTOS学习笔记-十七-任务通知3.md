@@ -1,7 +1,7 @@
 ---
 title: ESP32-FreeRTOS学习笔记(十七)--任务通知3
 date: 2022-11-06 10:33:29
-tags: FreeRTOS
+tags: [ESP32, FreeRTOS]
 ---
 
  再额外介绍剩下的几个关于任务通知的函数

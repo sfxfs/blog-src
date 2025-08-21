@@ -1,7 +1,7 @@
 ---
 title: Aroma香气(阿罗马)安装教程
 date: 2022-09-09 18:32:05
-tags: wiiu
+tags: [WiiU, Aroma, game]
 ---
 
 ## 1.判断你的机器状态
