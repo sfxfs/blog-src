@@ -1,7 +1,7 @@
 ---
 title: UART理论基础
 date: 2025-08-20 22:22:23
-tags: [uart, theory]
+tags: [UART]
 ---
 
 ## 基本概念

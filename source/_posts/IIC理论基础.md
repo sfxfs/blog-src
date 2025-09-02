@@ -1,7 +1,7 @@
 ---
 title: IIC理论基础
 date: 2025-08-19 13:42:17
-tags: [i2c, theory]
+tags: [IIC]
 ---
 
 ## 概要

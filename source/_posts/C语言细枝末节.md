@@ -1,7 +1,7 @@
 ---
 title: C语言细枝末节
 date: 2025-08-21 11:05:25
-tags: [c, theory]
+tags: [C]
 ---
 
 ## 数据相关

@@ -1,7 +1,7 @@
 ---
 title: RockPi 5B Armbian 首次开机设置流程
 date: 2023-04-03 20:35:03
-tags: [linux, RockPi, Armbian]
+tags: [Linux, RockPi, Armbian]
 ---
 
 ## 镜像烧录

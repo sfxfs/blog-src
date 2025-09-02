@@ -1,7 +1,7 @@
 ---
 title: 通过镜像恢复方式为nanopi配置系统
 date: 2022-10-27 14:29:44
-tags: [underwater, robot, h3, nanopi]
+tags: [Underwater, Robot, H3, NanoPi]
 ---
 
 ## 1.请烧录如下固件

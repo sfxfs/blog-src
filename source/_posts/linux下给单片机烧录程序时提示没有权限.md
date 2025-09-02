@@ -1,7 +1,7 @@
 ---
 title: linux下给单片机烧录程序时提示没有权限
 date: 2022-09-21 12:40:22
-tags: [arduino, platformio, linux]
+tags: [Arduino, PlatformIO, Linux]
 ---
 
   这是因为该用户所在的用户组不包含USB的相关权限，我们可以将用户添加到有权限的用户组，或者将对应串口开放给所有人使用。

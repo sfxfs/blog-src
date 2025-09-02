@@ -1,7 +1,7 @@
 ---
 title: CAN理论基础
 date: 2025-08-21 12:32:11
-tags: [can, theory]
+tags: [CAN]
 ---
 
 ## 概述

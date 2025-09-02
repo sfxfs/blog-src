@@ -1,7 +1,7 @@
 ---
 title: WSL下编译rv110x系列芯片固件
 date: 2024-11-20 19:39:55
-tags: [linux, luckfox, rv1103, rv1106, wsl]
+tags: [Linux, Luckfox, RV110x, WSL]
 ---
 
 ## 介绍
