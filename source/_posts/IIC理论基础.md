@@ -1,7 +1,11 @@
 ---
 title: IIC理论基础
 date: 2025-08-19 13:42:17
-tags: [IIC]
+description: 深入解析IIC（I2C）总线通信协议的理论基础，包括双线通信机制、多设备管理和地址机制
+tags: [IIC, I2C, 双线通信, 总线通信, 通信协议, 嵌入式, 理论基础]
+categories: [嵌入式开发, 通信协议]
+cover: 
+top_img: 
 ---
 
 ## 概要

@@ -1,7 +1,11 @@
 ---
 title: this auto&& self 详解
 date: 2025-09-02 15:17:29
-tags: [C++]
+description: 深入解析C++23新特性中的显式this参数和推导返回类型，理解现代C++的高级语法特性
+tags: [C++, C++23, 显式this, 新特性, 操作符重载, 现代C++, 语法特性]
+categories: [编程语言, C++]
+cover: 
+top_img: 
 ---
 
 好的，我们来详细解读这句 C++23 的新语法：`auto&& operator[](this auto&& self, int index)`。

@@ -1,7 +1,11 @@
 ---
 title: ESP32-FreeRTOS学习笔记(二)--MUTEX互斥量的应用
 date: 2022-10-21 19:38:07
-tags: [ESP32, FreeRTOS]
+description: 深入学习ESP32 FreeRTOS中互斥量(MUTEX)的使用方法，解决多任务编程中的竞态条件和资源保护问题
+tags: [ESP32, FreeRTOS, 嵌入式, 互斥量, 多任务, 实时操作系统]
+categories: [嵌入式开发, ESP32]
+cover: 
+top_img: 
 ---
 
 包括任务函数使用全局变量和添加互斥量避免“冒险与竞争”

@@ -1,7 +1,11 @@
 ---
 title: UART理论基础
 date: 2025-08-20 22:22:23
-tags: [UART]
+description: 深入讲解UART串行通信协议的基础理论，包括异步通信原理、波特率、帧格式和物理连接方式
+tags: [UART, 串行通信, 异步通信, 通信协议, 嵌入式, 理论基础]
+categories: [嵌入式开发, 通信协议]
+cover: 
+top_img: 
 ---
 
 ## 基本概念

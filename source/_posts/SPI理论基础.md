@@ -1,7 +1,11 @@
 ---
 title: SPI理论基础
 date: 2025-08-20 22:22:12
-tags: [SPI]
+description: 详解SPI串行外设接口协议的基础理论，包括主从式通信机制、信号线定义和通信流程
+tags: [SPI, 串行通信, 主从通信, 通信协议, 嵌入式, 理论基础, 接口]
+categories: [嵌入式开发, 通信协议]
+cover: 
+top_img: 
 ---
 
 ## SPI 协议简介

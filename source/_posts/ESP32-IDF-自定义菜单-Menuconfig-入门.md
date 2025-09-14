@@ -1,7 +1,11 @@
 ---
 title: ESP32-IDF 自定义菜单 Menuconfig 入门
 date: 2022-12-17 09:38:09
-tags: [ESP32, IDF]
+description: 详解ESP32-IDF开发框架中如何创建自定义Menuconfig菜单，实现项目配置的可视化管理
+tags: [ESP32, IDF, Menuconfig, 开发环境, 配置管理, 嵌入式]
+categories: [嵌入式开发, ESP32]
+cover: 
+top_img: 
 ---
 
 # 介绍

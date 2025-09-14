@@ -1,7 +1,11 @@
 ---
 title: Nanopi neo core 作为下位机首次配置流程
 date: 2023-05-03 20:18:30
-tags: [Linux, NanoPi, SBC]
+description: 详细介绍NanoPi NEO Core单板计算机的首次配置流程，包括系统烧录、网络配置和基础设置
+tags: [Linux, NanoPi, SBC, 单板计算机, 系统配置, 嵌入式Linux]
+categories: [嵌入式开发, 硬件平台]
+cover: 
+top_img: 
 ---
 
  [原本的配置流程链接](https://detail.yinxiang.com/index.html?guid=ba0bc618-4d29-4d47-ac6c-94ee43c146a3&loginName=zz&token=V1-5045541-MYjTa8q0ZLek6LeI38RvqD5jI24sVIuET6GRx9SRx%2B6LylYFWfpEohLy%2FGvK2k1C4rP7Xzg8KW3ITmaY3ABkQrRRKV0qmmvJzOQxupLrrBHjOgO1kKvbb0qVhVeAmkvE%2F4Zh8sYgbnZuLLj0qaPvTHhnkf37MKJ7Y2i%2FCt54j8WhHzSEjBmO0qGrJSZVbxJ0&at=false&platformType=1&deviceinfo=%7B%22application%22%3A%22android_miniapp%22%2C%22applicationVersion%22%3A%221.1.22%22%2C%22platform%22%3A%22microsoft%22%2C%22platformVersion%22%3A%22Windows%2011%20x64%22%2C%22locale%22%3A%22zh_CN%22%7D&unionId=f5d82db79639969b9e276eb18f7d6c98&userId=36590286&sessionId=011Yboll2OePB94SKHll2I8bMS3Ybol1&channelId=wx75425a38a3ed6402)
