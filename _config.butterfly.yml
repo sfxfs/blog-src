@@ -20,8 +20,6 @@ nav:
 menu:
   主页: / || fas fa-home
   归档: /archives/ || fas fa-archive
-  标签: /tags/ || fas fa-tags
-  分类: /categories/ || fas fa-folder-open
   技术分享||fas fa-code:
     C++编程: /categories/编程语言/C++/ || fab fa-cuttlefish
     嵌入式开发: /categories/嵌入式开发/ || fas fa-microchip
@@ -51,9 +49,7 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://github.com/sfxfs || GitHub || '#24292e'
-  fas fa-envelope: mailto:contact@sfxfs.dev || 邮箱 || '#4a7dbe'
-  fas fa-rss: /atom.xml || RSS || '#ff6600'
+  # fab fa-github: https://github.com/sfxfs || GitHub || '#24292e'
 
 # --------------------------------------
 # Image Settings
@@ -98,7 +94,7 @@ footer_img: false
 
 # Website Background
 # Can set it to color or image url
-background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)'
+background: https://w.wallhaven.cc/full/5g/wallhaven-5g22q5.png
 
 cover:
   # Disable the cover or not
@@ -266,14 +262,6 @@ noticeOutdate:
 # --------------------------------------
 footer:
   nav:
-    - name: 主页
-      link: /
-    - name: 关于
-      link: /about/
-    - name: 标签
-      link: /tags/
-    - name: 归档
-      link: /archives/
   owner:
     enable: true
     since: 2022
