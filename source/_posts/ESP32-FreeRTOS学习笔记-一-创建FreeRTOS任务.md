@@ -1,7 +1,11 @@
 ---
 title: ESP32-FreeRTOS学习笔记(一)--创建FreeRTOS任务
 date: 2022-10-21 19:35:49
-tags: [ESP32, FreeRTOS]
+description: ESP32 FreeRTOS任务创建的基础教程，包括任务的创建方法和参数传递技巧
+tags: [ESP32, FreeRTOS, 嵌入式, 任务创建, 实时操作系统, 多任务]
+categories: [嵌入式开发, ESP32]
+cover: 
+top_img: 
 ---
 
 包括任务的创建和向任务传参

@@ -1,7 +1,11 @@
 ---
 title: Shell脚本基础
 date: 2025-08-25 20:29:40
-tags: [Shell, Linux, Script]
+description: Shell脚本编程基础教程，从Hello World开始学习Shell脚本的基本语法和编程技巧
+tags: [Shell, Linux, 脚本编程, 自动化, 命令行, Bash]
+categories: [操作系统, Linux]
+cover: 
+top_img: 
 ---
 
 注意：在本文中，不以 ` #!/bin/bash` 开头的代码均为伪代码或命令，仅供示意。

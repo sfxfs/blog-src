@@ -1,7 +1,11 @@
 ---
 title: 奇异递归模板模式 CRTP
 date: 2025-09-02 15:17:50
-tags: [C++]
+description: 详解C++奇异递归模板模式(CRTP)的原理和应用，实现零开销静态多态的高级编程技巧
+tags: [C++, CRTP, 模板编程, 静态多态, 设计模式, 高级C++, 编程技巧]
+categories: [编程语言, C++]
+cover: 
+top_img: 
 ---
 
 ## CRTP 的用途

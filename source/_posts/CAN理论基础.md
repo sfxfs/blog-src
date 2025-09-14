@@ -1,7 +1,11 @@
 ---
 title: CAN理论基础
 date: 2025-08-21 12:32:11
-tags: [CAN]
+description: 详解CAN总线的理论基础，包括物理层和数据链路层的详细说明，深入理解CAN通信协议
+tags: [CAN, 通信协议, 总线, 嵌入式, 物理层, 数据链路层, 理论基础]
+categories: [嵌入式开发, 通信协议]
+cover: 
+top_img: 
 ---
 
 ## 概述
