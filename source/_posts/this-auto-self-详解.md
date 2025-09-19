@@ -8,8 +8,6 @@ cover:
 top_img: 
 ---
 
-好的，我们来详细解读这句 C++23 的新语法：`auto&& operator[](this auto&& self, int index)`。
-
 这句代码定义了一个类的下标操作符（`operator[]`），但它使用了两个 C++23 的新特性，使其变得非常通用和强大：
 
 1. **显式 `this` 参数 (`this auto&& self`)**
