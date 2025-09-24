@@ -25,13 +25,16 @@ prevnext:
   enable: true
 
 # 链接信息
-link: 
+link:
   # name: 名称
   # icon: 图标，目前仅支持IconFont部分图标
   # path: 地址
   # target: 跳转方式
   -
-    # 档案
+    name: about
+    icon: emoji-friendly
+    path: /about/
+  -
     name: archives
     icon: bookmark
     path: /archives/
