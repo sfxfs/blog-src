@@ -10,10 +10,9 @@ top_img:
 
 这句代码定义了一个类的下标操作符（`operator[]`），但它使用了两个 C++23 的新特性，使其变得非常通用和强大：
 
-1. **显式 `this` 参数 (`this auto&& self`)**
+1. **显式 `this` 参数 (`this auto&& self`)** 即 **Deducing this**
    
 2. **推导返回类型 (`auto&&`)**
-   
 
 让我们一步步分解来理解。
 
