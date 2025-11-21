@@ -1,0 +1,49 @@
+name: Hexo Deploy
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+concurrency:
+  group: hexo-deploy-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # 允许推送到 gh-pages 或目标分支
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Configure Git user
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Build & Deploy
+        env:
+          GIT_TOKEN: ${{ secrets.GH_TK }}
+        run: |
+          npx hexo clean
+          npx hexo generate
+          npx hexo deploy
+
+      - name: Upload public folder
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: public
