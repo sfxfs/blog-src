@@ -1,7 +1,7 @@
 ---
 title: FreeRTOS中的SysTick、SVCall和Pend
 date: 2025-09-30 15:53:23
-tags: [FreeRTOS, ARM]
+tags: [FreeRTOS, 中断, 上下文切换]
 ---
 
 ## 1. **SysTick**
